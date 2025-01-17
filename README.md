@@ -82,7 +82,7 @@ Before you get started, make sure you have the following:
 
 1. **Clone this repository** to your local machine:
     ```bash
-    git clone https://github.com/yourusername/weather-app.git
+    git clone https://github.com/sudhanshu-j/weather-app.git
     ```
 2. **Navigate to the project directory**:
     ```bash
